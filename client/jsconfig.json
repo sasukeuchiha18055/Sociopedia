@@ -1,0 +1,6 @@
+{
+  "comliperOptions": {
+    "baseUrl": "src"
+  },
+  "include": ["src"]
+}
